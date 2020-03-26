@@ -6,7 +6,8 @@ I've forked this entirely to just import multiple csv files into one xslx file a
 This is occasionally invaluable. 
 
 
-```usage: csv2xlsx [-s <sep>] [-q <quot>] [-w <width>] [-d <dtfmt>]
+```
+usage: csv2xlsx [-s <sep>] [-q <quot>] [-w <width>] [-d <dtfmt>]
                [-o <xlsx>] [file.csv]
        -s <sep>   use <sep>   as seperator char, auto-detect, default = ','
                   The string "tab" is allowed.
