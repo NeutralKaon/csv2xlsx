@@ -6,7 +6,7 @@ I've forked this entirely to just import multiple csv files into one xslx file a
 This is occasionally invaluable. 
 
 
-usage: csv2xlsx [-s <sep>] [-q <quot>] [-w <width>] [-d <dtfmt>]
+```usage: csv2xlsx [-s <sep>] [-q <quot>] [-w <width>] [-d <dtfmt>]
                [-o <xlsx>] [file.csv]
        -s <sep>   use <sep>   as seperator char, auto-detect, default = ','
                   The string "tab" is allowed.
@@ -34,5 +34,5 @@ usage: csv2xlsx [-s <sep>] [-q <quot>] [-w <width>] [-d <dtfmt>]
        -m         merge multiple CSV's into a single xlsx (separate sheets)
                     -o is required, all arguments should be existing files
        -v [<lvl>] verbosity (default = 1)
-
+```
 Perl_5 license. 
