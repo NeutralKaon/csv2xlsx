@@ -1,7 +1,8 @@
 #!/opt/local/bin/perl
  
 # csv2xlsx: Convert csv to xlsx
-#          (m)'19 [28 Nov 2019] Copyright H.M.Brand 2007-2020
+#          (m)'19 [28 Nov 2019] Copyright H.M.Brand 2007-2020 
+#          Badly edited by J. J. Miller, 2020
  
 use 5.14.0;
 use warnings;
